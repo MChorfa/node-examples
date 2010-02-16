@@ -4,4 +4,4 @@ Code extracted from [this article](http://boldr.net/create-a-web-app-with-node/)
 
 ## MVC
 
-Code extracted from [this article](http://boldr.net/mvc-framework-node-js-ejsgi/).
+Code extracted from [this article](http://boldr.net/mvc-stack-node-js-ejsgi-scylla-mustache/).
